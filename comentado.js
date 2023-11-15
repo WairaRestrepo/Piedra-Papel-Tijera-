@@ -20,7 +20,7 @@ const imagenes = [
     /*Arreglo de objetos imagenes*/
     {
         name: "Piedra",/*Nombre  */
-        url: "assets/Piedra.PNG"  /*Ruta de la imagen */
+        url:"assets/Piedra.PNG"  /*Ruta de la imagen */
     },
     {
         name: "Papel",
